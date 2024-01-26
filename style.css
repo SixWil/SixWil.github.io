@@ -1,0 +1,15 @@
+.SW {
+text-align: center;
+-webkit-text-stroke: 3px black;
+font-size:xx-large;
+color: white;
+font-family: 'Courier New', Courier, monospace;
+}
+
+a {
+color: white;
+}
+
+.t{
+font-family: 'Courier New', Courier, monospace;
+}
